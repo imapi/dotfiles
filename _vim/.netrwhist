@@ -1,2 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/ivan_bondarenko/dotfiles/_vim/bundle/solarized'
+let g:netrw_dirhist_2='/usr/share/maven'
+let g:netrw_dirhist_3='/Users/ivan_bondarenko/Documents/Development/main/Netbiscuits'
+let g:netrw_dirhist_4='/Users/ivan_bondarenko/Documents/Development/playground/python/enforcer/Enforcer_fix_script.egg-info'
+let g:netrw_dirhist_5='/Users/ivan_bondarenko/dotfiles/_vim/_vim'

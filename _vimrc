@@ -306,3 +306,5 @@ if filereadable($VIRTUAL_ENV . '/.vimrc')
 endif
 
 set colorcolumn=79
+set background=dark
+colorscheme desert
